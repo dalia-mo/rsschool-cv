@@ -17,7 +17,7 @@ ___
 - Illustrator
 
 Actively learning on Skillshare, Udemy & RS School:
-- HTML, CSS, JS
+- HTML, CSS, Javascript
 
 [Have a look at my website - _work in progress_ 🚧](https://github.com/dalia-mo)
 
